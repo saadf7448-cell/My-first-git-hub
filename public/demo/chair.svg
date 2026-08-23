@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+<rect width="800" height="1000" rx="48" fill="#E9E6D7"/>
+<circle cx="640" cy="180" r="210" fill="#8A7A37" opacity=".18"/>
+<circle cx="140" cy="820" r="260" fill="#8A7A37" opacity=".12"/>
+<rect x="170" y="225" width="460" height="520" rx="88" fill="white" opacity=".92"/>
+<rect x="245" y="315" width="310" height="330" rx="60" fill="#8A7A37" opacity=".88"/>
+<circle cx="400" cy="480" r="105" fill="white" opacity=".86"/>
+<path d="M355 480h90M400 435v90" stroke="#8A7A37" stroke-width="20" stroke-linecap="round"/>
+<text x="400" y="865" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="7" fill="#222">HOME</text>
+</svg>
